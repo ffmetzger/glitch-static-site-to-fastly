@@ -4,12 +4,12 @@
   "name": "Felix' digitale Bewerbungsmappe",
   "bio": "Ich kann 📲 Social Media ausspielen, 🎙🎥 Audio/Video produzieren und ✍️📚 Texte  schreiben.",
   "theme": "dusky-lory",
-  "avatarImage": "https://cdn.glitch.global/0facf71e-b179-456a-beee-6666a73b7aa9/felix.jpg?v=1651142725425",
+  "avatarImage": "src/felix.jpg",
   "avatarImageAlt": "https://cdn.glitch.global/0facf71e-b179-456a-beee-6666a73b7aa9/felix.jpg?v=1651142725425",
   "favicon": "https://cdn.glitch.global/0facf71e-b179-456a-beee-6666a73b7aa9/woman-fairy_1f9da-200d-2640-fe0f.png?v=1651142779706",
   "links": [
     {
-      "url": "https://cdn.glitch.global/0facf71e-b179-456a-beee-6666a73b7aa9/Bewerbung_Metzger_AllinOne.pdf?v=1651144414137",
+      "url": "src/Bewerbung_Metzger_AllinOne.pdf",
       "text": "💌 Anschreiben + Lebenslauf + Zeugnis + Arbeitsproben (All-in-one PDF)",
       "img": "",
       "altText": ""
