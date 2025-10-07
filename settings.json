@@ -1,0 +1,74 @@
+{
+  "metaTitle": "Felix Metzger möchte für euch arbeiten! 🚀",
+  "metaDescription": "Eine schnelle digitale Bewerbungsmappe für Felix Metzger",
+  "name": "Felix' digitale Bewerbungsmappe",
+  "bio": "Ich kann 📲 Social Media ausspielen, 🎙🎥 Audio/Video produzieren und ✍️📚 Texte  schreiben.",
+  "theme": "dusky-lory",
+  "avatarImage": "https://cdn.glitch.global/0facf71e-b179-456a-beee-6666a73b7aa9/felix.jpg?v=1651142725425",
+  "avatarImageAlt": "https://cdn.glitch.global/0facf71e-b179-456a-beee-6666a73b7aa9/felix.jpg?v=1651142725425",
+  "favicon": "https://cdn.glitch.global/0facf71e-b179-456a-beee-6666a73b7aa9/woman-fairy_1f9da-200d-2640-fe0f.png?v=1651142779706",
+  "links": [
+    {
+      "url": "https://cdn.glitch.global/0facf71e-b179-456a-beee-6666a73b7aa9/Bewerbung_Metzger_AllinOne.pdf?v=1651144414137",
+      "text": "💌 Anschreiben + Lebenslauf + Zeugnis + Arbeitsproben (All-in-one PDF)",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://cdn.glitch.global/0facf71e-b179-456a-beee-6666a73b7aa9/Lebenslauf_Felix_Metzger.pdf?v=1651140341638",
+      "text": "🏃🏻‍♂️ Lebenslauf",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://cdn.glitch.global/0facf71e-b179-456a-beee-6666a73b7aa9/Arbeitszeugnis_Murmuras.pdf?v=1651142663917",
+      "text": "📜 Arbeitszeugnis Murmuras",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://academia.murmuras.com/blog/",
+      "text": "Arbeitsbeispiele:",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://www.testingtime.com/blog/fair-erhobene-smartphonedaten-als-chance-fuer-die-konsumforschung/",
+      "text": "✍️ Gastblogartikel: Fair erhobene Smartphonedaten für die Konsumforschung",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3snkuqD9zog",
+      "text": "📹 Produktvideo: Die Murmuras-Plattform",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://murmuras.com/en/blog/facebook-outage",
+      "text": "📉 Firmenblog: Changes in smartphone app use during the global Facebook outage on 4 October 2021",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://cdn.glitch.global/0facf71e-b179-456a-beee-6666a73b7aa9/Androidapptest_Artikel_Felix_Metzger.pdf?v=1651143930993",
+      "text": "📱 (Inzwischen depublizierte) Tech-News Artikel",
+      "img": "",
+      "altText": ""
+    }
+
+  ],
+  "tweets": [
+    {
+      "url": ""
+    }
+  ],
+  "social": {
+    "email": "felix.metzger@gmail.com",
+    "facebook": "https://www.facebook.com/felix.metzger",
+    "instagram": "https://www.instagram.com/defix/",
+    "linkedin": "https://www.linkedin.com/in/felix-metzger-84b590194/",
+    "twitter": "https://twitter.com/ffmetzger"
+
+  }
+}
