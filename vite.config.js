@@ -22,12 +22,6 @@ export default defineConfig(async ({ command, mode }) => {
     },
     optimizeDeps: {
       exclude: ['./settings.json']
-    },
-    server: {
-      strictPort: true,
-      hmr: {
-        port: 443
-      }
     }
   };
 });
